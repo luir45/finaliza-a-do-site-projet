@@ -1,0 +1,32 @@
+header {
+background:#BBBBBB;
+padding: 20px0;
+}
+.caixa{
+position: relative;
+width: 940px;
+margin:0 auto;
+}
+nav li {
+disĺay:inline;
+margin:000015px;
+}
+nav a{
+text-transform: uppercase
+color:#000000;
+font-weight:bold;
+font-size:22px;
+text-decoration:nome;}
+nav a:hover{
+color:#d323eb;
+text-decoration: underline;
+}
+.produto{
+width: 940px;
+margin:0 auto;
+padding:50px 0;
+}
+.produto li{ 
+display: inline-block;
+text-align:center;
+width: 30%;}
